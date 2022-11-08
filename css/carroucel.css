@@ -1,0 +1,14 @@
+.carrucelpos{
+    position: relative;
+    top: 1px;
+    z-index: -50;
+}
+.tituloini{
+    color:black;
+    text-align: center;
+}
+
+#servicio{
+    text-align: center;
+    padding: 5px;
+}
